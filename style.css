@@ -1,6 +1,6 @@
 body{
-	font-family: "Marker Felt","Comic Sans MS", fantasy;
-	color:#003366;
+	font-family: "Helvetica", fantasy;
+	color:#000000;
        }
 
 h1 {
@@ -9,20 +9,23 @@ h1 {
      }
 
 table {
+  font-family:"Arial Black", Gadget, sans-serif;
 	margin-left:auto;
 	margin-right:auto;
-	text-align: center;
-	border-collapse: collapse;
-	cellspacing: 0 px;
+	text-align:left;
+  border-collapse: collapse;
          }
+
 td {
-	border: 1px solid #ffffff;
-	text-align: center;
-	background-color:#9FB6CD; 
+	border: solid #4d4d4d;
+	text-align:center;
+	background-color:#2DE0DD; 
     }
 
 th {
 	text-align:center;
-	color:#ffffff;
-	background-color:#003366;
+	color:#000000;
+	background-color:#176F6A;
+  border: solid #E0A52D;
    }
+
